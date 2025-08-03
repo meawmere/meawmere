@@ -3,22 +3,22 @@
 
 ## 📊  GitHub Stats
 
-![meawmere's GitHub stats](https://github-readme-stats.vercel.app/api?username=meawmere&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![meawmere's GitHub stats](https://github-readme-stats.vercel.app/api?username=meawmere&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ## 🔥 GitHub Streak
 
-[![meawmere's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com?user=meawmere&theme=dark)](https://git.io/streak-stats)
+[![meawmere's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com?user=meawmere&theme=github_dark)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 
-[![meawmere's Trophies](https://github-profile-trophy.vercel.app/?username=meawmere&theme=dark&no-frame=false&no-bg=true&margin-w=4)](https://github-profile-trophy.vercel.app/?username=meawmere&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+[![meawmere's Trophies](https://github-profile-trophy.vercel.app/?username=meawmere&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)](https://github-profile-trophy.vercel.app/?username=meawmere&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
     
 ## 🌐 Top Languages
 
-[![meawmere's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meawmere&theme=dark&hide=c%23,html,css&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=meawmere&theme=dark&hide=c%23,html,css&layout=compact)
+[![meawmere's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meawmere&theme=github_dark&hide=c%23,html,css&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=meawmere&theme=github_dark&hide=c%23,html,css&layout=compact)
     
 ## 🏅 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=meawmere&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=meawmere&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ## 💻 Technologies I know
 
