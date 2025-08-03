@@ -46,6 +46,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yourinstagram)
 
-## 💰 Support my workhttps://www.donationalerts.com/r/meawmere
+## 💰 Support my work
 
-[![DonationAlerts](https://img.shields.io/badge/-DonationAlerts-lightgrey?style=for-the-badge)](https://www.donationalerts.com/r/meawmere)   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/meawmere)
+[![DonationAlerts](https://img.shields.io/badge/-DonationAlerts-lightgrey?style=for-the-badge)](https://www.donationalerts.com/r/meawmere)
