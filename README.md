@@ -3,22 +3,22 @@
 
 ## 📊  GitHub Stats
 
-![meawmere's GitHub stats](https://github-readme-stats.vercel.app/api?username=meawmere&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![meawmere's GitHub stats](https://github-readme-stats.vercel.app/api?username=meawmere&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ## 🔥 GitHub Streak
 
-[![meawmere's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com?user=meawmere&theme=radical)](https://git.io/streak-stats)
+[![meawmere's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com?user=meawmere&theme=dark)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 
-[![meawmere's Trophies](https://github-profile-trophy.vercel.app/?username=meawmere&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github-profile-trophy.vercel.app/?username=meawmere&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![meawmere's Trophies](https://github-profile-trophy.vercel.app/?username=meawmere&theme=dark&no-frame=false&no-bg=true&margin-w=4)](https://github-profile-trophy.vercel.app/?username=meawmere&theme=dark&no-frame=false&no-bg=true&margin-w=4)
     
 ## 🌐 Top Languages
 
-[![meawmere's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meawmere&theme=radical&hide=c%23,html,css&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=meawmere&theme=radical&hide=c%23,html,css&layout=compact)
+[![meawmere's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meawmere&theme=dark&hide=c%23,html,css&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=meawmere&theme=dark&hide=c%23,html,css&layout=compact)
     
 ## 🏅 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=meawmere&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=meawmere&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 👀 Profile Views
 
@@ -46,6 +46,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yourinstagram)
 
-## 💰 Support my work
+## 💰 Support my workhttps://www.donationalerts.com/r/meawmere
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/meawmere)   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/meawmere)
+[![DonationAlerts](https://img.shields.io/badge/-DonationAlerts-lightgrey?style=for-the-badge)](https://www.donationalerts.com/r/meawmere)   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/meawmere)
