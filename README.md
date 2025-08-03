@@ -20,11 +20,6 @@
 ## 🏅 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=meawmere&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 👀 Profile Views
-
-[![](https://visitcount.itsvg.in/api?id=meawmere&icon=0&color=2)](https://visitcount.itsvg.in)
-
-
 ## 💻 Technologies I know
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -38,7 +33,6 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-lightgrey?style=for-the-badge)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-
 
 ## 💰 Support my work
 
